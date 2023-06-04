@@ -1,1 +1,1 @@
-import = (Random3x)
+import Random3x
