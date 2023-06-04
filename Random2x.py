@@ -1,1 +1,1 @@
-import Random3x.py
+import Random3x
